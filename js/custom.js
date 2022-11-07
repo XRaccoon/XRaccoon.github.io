@@ -7,7 +7,7 @@ function percent() {
         up = document.querySelector("#go-up") // ��ȡ��ť
 
     if (result <= 90) {
-        //up.childNodes[0].style.display = 'none'
+        up.childNodes[0].style.display = 'none'
         up.childNodes[1].style.display = 'block'
         up.childNodes[1].innerHTML = result;
     } else {
