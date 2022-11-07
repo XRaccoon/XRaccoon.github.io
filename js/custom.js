@@ -11,7 +11,7 @@ function percent() {
         up.childNodes[1].style.display = 'block'
         up.childNodes[1].innerHTML = result;
     } else {
-        up.childNodes[1].style.display = 'none'
+        //up.childNodes[1].style.display = 'none'
         up.childNodes[0].style.display = 'block'
     }
 }
