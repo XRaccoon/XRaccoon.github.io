@@ -37,13 +37,13 @@ button#go-up span {
 
 /* 鼠标滑动到按钮上时显示返回顶部图标 */
 button#go-up:hover i {
-    display: none !important;
+    display: block !important;
 }
-
+/*
 button#go-up:hover #percent {
     display: none !important;
 }
-
+*/
 
 @import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
 .iconfont {
