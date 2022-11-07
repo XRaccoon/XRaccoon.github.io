@@ -41,7 +41,7 @@ button#go-up:hover {
 }
 
 button#go-up:hover #percent {
-    display: none !important;
+    display: block !important;
 }
 
 
