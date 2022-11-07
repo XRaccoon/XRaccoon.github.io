@@ -39,11 +39,11 @@ button#go-up span {
 button#go-up:hover i {
     display: block !important;
 }
-
+/*
 button#go-up:hover #percent {
     display: none !important;
 }
-
+*/
 
 @import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
 .iconfont {
