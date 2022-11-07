@@ -21,3 +21,13 @@
 [data-theme="dark"] #page-header::before {
   background: transparent !important;
 }
+
+@import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 3em;
+  /* 可以定义图标大小 */
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
