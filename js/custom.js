@@ -6,7 +6,7 @@ function percent() {
         result = Math.round(a / b * 100), // ����ٷֱ�
         up = document.querySelector("#go-up") // ��ȡ��ť
 
-    if (result <= 95) {
+    if (result <= 94) {
         up.childNodes[0].style.display = 'none'
         up.childNodes[1].style.display = 'block'
         up.childNodes[1].innerHTML = result;
